@@ -1,0 +1,5 @@
+name: Hello World
+type: module
+description: 'A module to try out menu routing in Drupal 8.'
+package: 'Custom'
+core: 8.x
